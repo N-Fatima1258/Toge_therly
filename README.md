@@ -33,4 +33,5 @@ A responsive event discovery website that helps users find local events with a c
 2. Open the `index.html` file in any modern web browser
 3. No server required - runs completely client-side
 
+https://n-fatima1258.github.io/Toge_therly/
 
